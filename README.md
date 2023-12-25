@@ -8,7 +8,7 @@ For the purpose of this project, I have used the [US Economic Profile by County 
 
 The data covers 32 economic categories like Personal Income, Unemployment Insurance Compensation, Net Earnings etc.
 
-## Types of Data Analysis Techniques Used 
+## Data Analytics Skills and Techniques Used 
 - Exploring and sourcing open data 
 - Exploring Relationships
 - Geographical Visualizations
